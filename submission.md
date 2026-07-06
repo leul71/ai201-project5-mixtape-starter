@@ -169,5 +169,4 @@ it joins on `playlist_entries`, filters by `playlist_id`, and orders by
 ---
 
 ## Git Log
-
-_(Paste screenshot of `git log --oneline` output here after all commits are made)_
+![image](gitlog.png)
